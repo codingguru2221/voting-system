@@ -52,4 +52,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## Contact
 
-For any questions or feedback, please contact [Your Name] at [Your Email].
+For any questions or feedback, please contact *The Codex* at codexveer@gmail.com.
